@@ -1,0 +1,7 @@
+class Demo
+{
+ void welcome()
+ {
+  System.out.println("Welcome to NavaSoft");
+ }
+}
